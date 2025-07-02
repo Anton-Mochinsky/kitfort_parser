@@ -28,7 +28,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone [https://github.com/ВАШ_ЛОГИН_GITHUB/kitfort_parser.git](https://github.com/ВАШ_ЛОГИН_GITHUB/kitfort_parser.git)
+    git clone [https://github.com/ВАШ_ЛОГИН_GITHUB/kitfort_parser.git](https://github.com/Anton-Mochinsky/kitfort_parser.git)
     ```
     Или скачайте ZIP-архив репозитория и распакуйте его.
 
